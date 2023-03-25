@@ -1,0 +1,29 @@
+# Scala
+*.sc
+
+# SBT
+boot/
+lib_managed/
+src_managed/
+test-output/
+target/
+.history
+
+# Eclipse
+.cache
+.classpath
+.project
+.scala_dependencies
+.settings
+.target/
+.history
+.bin
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+.bsp
